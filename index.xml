@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programación Cadena</title>
+    <link>arthurcadena.github.io.git/</link>
+    <description>Recent content on Programación Cadena</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 02 Dec 2020 15:58:07 -0600</lastBuildDate><atom:link href="arthurcadena.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>arthurcadena.github.io.git/about/about/</link>
+      <pubDate>Wed, 02 Dec 2020 15:58:07 -0600</pubDate>
+      
+      <guid>arthurcadena.github.io.git/about/about/</guid>
+      <description>Hola soy Cadena técnico en programación y actual estudiante de ingeniería en informática, utilizaré este espacio para ir documentando la solución de distintos problemas en áreas de la tecnología,¿Por que documentar todo esto? Básicamente no hay mejor forma de aprender que enseñando y compartiendo,podrás encontrar código desde mis repositorios en mi cuenta de Github que compartiré en la parte baja de mi blog y videos interesantes y tutoriales en mi canal de YouTube,para concluir te hablare un poco mas acerca de mi, siempre quise ser un electrónico sin embargo mi primer acercamiento a la informática fue por un curso que de mantenimiento y reparación de equipos a la edad de 12 años, este curso me llamo la atención por que entre los temas se encontraba electrónica básica, y ahí empezó todo,incluyendo mi primer acercamiento con la programación con el fin de poder hacer un videojuego, el primer lenguaje que toque es un sub lenguaje derivado de java llamado simple J , mi primer SO basado en GNU/Linux fue Open Suse y después adopte Ubuntu(Pero eso sera para otra historia) todo en el mismo curso, en preparatoria tome la carrera de técnico en programación donde amplié mi panorama de la informática, por ultimo en la universidad tome la carrera de ingeniería en mecatrónica sin embargo por problemas personales y económicos no pude concluirla por lo cual decidí regresar a una de mis mayores pasiones la ingeniería en informática que actualmente estoy cursando, lo cual me permitirá especializarme en algo que me gusta y ganar dinero, espero que le sea de verdad util todo lo que comparto en este blog a las personas :D !</description>
+    </item>
+    
+    <item>
+      <title>Por Que Elegi Ubuntu ?</title>
+      <link>arthurcadena.github.io.git/post/por-que-elegi-ubuntu-/</link>
+      <pubDate>Wed, 02 Dec 2020 15:57:47 -0600</pubDate>
+      
+      <guid>arthurcadena.github.io.git/post/por-que-elegi-ubuntu-/</guid>
+      <description>Se que les parecera extraño que me agrade mucho Ubuntu , ya que es un sistema operativo muy querido por muchos y odiado por otros. Sin embargo yo también tuve una relacion odio con este sistema operativo, de hecho el primer sistema operativo de GNU/Linux fue Open Suse y quede encantado, tenia alrededor de 13 años sin embargo solo lo probe muy superficialmente, cuando estudie en la preparatoria queria experimentar en ese entonces con un sistema operativo libre e investigando vi que recomendaban bastante para principiantes Ubuntu , asi que decidi animarme a probarlo, obviamente me descargue la ultima versión y ese fue mi primer error, en esa epoca(entre 2011 y 2012) Ubuntu tenia muchos adeptos, pero tambien opositores, y yo en ese entonces no sabia mucho acerca de como trabajaba Canonical con sus versiones.</description>
+    </item>
+    
+  </channel>
+</rss>
